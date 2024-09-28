@@ -1,1 +1,1 @@
-# MysticalVision
+# Mystical Vision
