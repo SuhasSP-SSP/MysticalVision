@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="images">
+    <file>file.png</file>
+    <file>file_select.png</file>
+    <file>folder_select.png</file>
+    <file>home.png</file>
+    <file>image_select.png</file>
+    <file>left.png</file>
+    <file>logout.png</file>
+    <file>picture_preview.png</file>
+    <file>right.png</file>
+    <file>select_folder_gen.png</file>
+    <file>window_icon.png</file>
+  </qresource>
+</RCC>
