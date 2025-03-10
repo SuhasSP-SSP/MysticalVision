@@ -1,1 +1,6 @@
 PyQt5
+tensorflow 
+keras
+sklearn
+numpy
+opencv-python
