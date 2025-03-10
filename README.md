@@ -49,7 +49,7 @@ Mystical Vision is a **simple**, **adaptable**, and **efficiently optimized even
 🚨 **DISCLAIMER:** This application is designed and best used at a screen resolution of **1366 ✕ 768** due to the current UI layout settings and is still not responsive for other screen resolutions.
 
 ---
-## 🔗 Links
+
 ### Sample Datasets for Testing
 - [Dog Emotions Dataset (Kaggle)](https://www.kaggle.com/datasets/devzohaib/dog-emotions-prediction/data)
 - [Face Mask Detection Dataset (Kaggle)](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection/data)
